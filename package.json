@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-poppler": "^6.0.1"
+  }
+}
